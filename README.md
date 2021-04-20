@@ -1,2 +1,6 @@
 # swilc.github.io
-There's really nothing here.. It's just for hosting style sheets.
+  For dark mode, use:
+  `<link rel="stylesheet" type="text/css" href="https://swilc.github.io/styles/styles-dark.css"/>`
+  
+  For light/standard, use:
+  `<link rel="stylesheet" type="text/css" href="https://swilc.github.io/styles/styles.css"/>`
