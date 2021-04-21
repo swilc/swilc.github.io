@@ -1,8 +1,8 @@
 # swilc.github.io
 Style Sheet Hosting
 
-Dark mode code
-----
+## Style sheet
+### Dark mode code
   For dark mode, use:
   `<link rel="stylesheet" type="text/css" href="https://swilc.github.io/styles/styles-dark.css"/>`
   
@@ -14,8 +14,7 @@ Dark mode code
    `<div class="font"></div>` 
    _to change the font to "Ubuntu"_
    
-Light mode code
-----
+### Light mode code
   For light, use:
   `<link rel="stylesheet" type="text/css" href="https://swilc.github.io/styles/styles.css"/>`
   
@@ -27,8 +26,7 @@ Light mode code
   `<div class="font"></div>` 
   _to change the font to "Ubuntu"_
 
-Plain
-----
+### Plain
   If you're boring, use this:
   `<link rel="stylesheet" type="text/css" href="https://swilc.github.io/styles/styles-plain.css"/>`
   
@@ -36,8 +34,8 @@ Plain
   `<div class="font"></div>` 
   _to change the font to "Ubuntu"_
   
-Basic HTML Page
-----
+## Other Reference
+### Basic HTML Page
   ```
 <!DOCTYPE html>
 <html>
