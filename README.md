@@ -35,3 +35,21 @@ Plain
   _You can use_ 
   `<div class="font"></div>` 
   _to change the font to "Ubuntu"_
+  
+Basic HTML Page
+----
+  ```
+<!DOCTYPE html>
+<html>
+    <div class="font">
+        <head>
+            <title></title>
+            <link rel="stylesheet" type="text/css" href="https://swilc.github.io/styles/styles-dark.css"/>
+        </head>
+
+        <body>
+            
+        </body>
+    </div>
+</html>
+```
