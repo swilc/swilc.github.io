@@ -1,6 +1,9 @@
 # swilc.github.io
 Style Sheet Hosting
 
+## Links
+[Assignments](https://github.com/school)
+
 ## Style sheet
 ### Dark mode code
   For dark mode, use:
