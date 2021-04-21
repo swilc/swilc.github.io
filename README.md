@@ -1,5 +1,4 @@
 # swilc.github.io
-Style Sheet Hosting
 
 ## Links
 [Assignments](https://github.com/school)
