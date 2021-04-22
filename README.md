@@ -1,7 +1,7 @@
 # swilc.github.io
 
 ## Links
-[Assignments](https://github.com/school)
+[Assignments](https://swilc.github.io/school)
 
 ## Style sheet
 ### Dark mode code
