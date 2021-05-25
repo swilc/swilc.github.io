@@ -41,15 +41,13 @@
   ```
 <!DOCTYPE html>
 <html>
-    <div class="font">
-        <head>
-            <title></title>
-            <link rel="stylesheet" type="text/css" href="https://swilc.github.io/styles/styles-dark.css"/>
-        </head>
+      <head>
+          <title></title>
+          <link rel="stylesheet" type="text/css" href="https://swilc.github.io/styles/styles-dark.css"/>
+      </head>
 
-        <body>
-            
-        </body>
-    </div>
+      <body>
+
+      </body>
 </html>
 ```
