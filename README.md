@@ -3,51 +3,30 @@
 ## Links
 [Assignments](https://swilc.github.io/school)
 
-## Style sheet
-### Dark mode code
-  For dark mode, use:
-  `<link rel="stylesheet" type="text/css" href="https://swilc.github.io/styles/styles-dark.css"/>`
-  
-   _You can use_ 
-   `<div class="header"></div>` 
-   _for the header block_
-   
-   _You can use_ 
-   `<div class="font"></div>` 
-   _to change the font to "Ubuntu"_
-   
-### Light mode code
-  For light, use:
-  `<link rel="stylesheet" type="text/css" href="https://swilc.github.io/styles/styles.css"/>`
-  
-  _You can use_ 
-  `<div class="header"></div>` 
-  _for the header block_
-  
-  _You can use_ 
-  `<div class="font"></div>` 
-  _to change the font to "Ubuntu"_
-
-### Plain
-  If you're boring, use this:
-  `<link rel="stylesheet" type="text/css" href="https://swilc.github.io/styles/styles-plain.css"/>`
-  
-  _You can use_ 
-  `<div class="font"></div>` 
-  _to change the font to "Ubuntu"_
-  
-## Other Reference
 ### Basic HTML Page
   ```
 <!DOCTYPE html>
-<html>
-      <head>
-          <title></title>
-          <link rel="stylesheet" type="text/css" href="https://swilc.github.io/styles/styles-dark.css"/>
-      </head>
+<html lang="en">
+	<head>
+		<!--Main style sheet-->
+		<link rel="stylesheet" type="text/css" href="./style-new.css">
 
-      <body>
+		<!--Google fonts-->
+		<!--Header font--><link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Quicksand">
+		<!--Main font--><link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto+Condensed">
+	</head>
+	<body>
+		<!--Header, for now just centers text-->
+		<div class="header">
+			<h1></h1>
+		</div>
 
-      </body>
+		<br>
+		<!--Put content here-->
+
+
+
+		
+	</body>
 </html>
 ```
