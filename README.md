@@ -9,7 +9,7 @@
 <html lang="en">
 	<head>
 		<!--Main style sheet-->
-		<link rel="stylesheet" type="text/css" href="./style-new.css">
+		<link rel="stylesheet" type="text/css" href="https://swilc.github.io/styles/styles.css">
 
 		<!--Google fonts-->
 		<!--Header font--><link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Quicksand">
